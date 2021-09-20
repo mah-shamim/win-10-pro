@@ -8,23 +8,35 @@
 
 ## Activation Steps
 
-1] Download 
+### Step 1] Download 'activator script' from direct download links given below :
+
+- Batch file : [.bat](https://github.com/Divinemonk/win10pro/releases/download/activator/win10pro.bat)
+- Zip file   : [.zip](https://github.com/Divinemonk/win10pro/archive/refs/tags/activator.zip)
+- Tar file   : [.tar.gz](https://github.com/Divinemonk/win10pro/archive/refs/tags/activator.tar.gz)
+> Click file extension to start downloading | Check [Releases](https://github.com/Divinemonk/win10pro/releases)
 
 <br>
 
+### Step 2] 
 
+<br>
 
+<!-- &nbsp; 1
+&ensp; 2
+&emsp; 4
+ -->
+ 
 ## Details
 
 <details>
   <summary>About Script</summary>
-  The script to activate is written in 'Batch Files' (.bat extension)
+  &ensp; The script to activate is written in 'Batch Files' (.bat extension)
   <br>
 </details>
 
 <details>
   <summary>Prerequisites</summary>
-  "Windows 10 Pro"  installed as main Operating System / as Virtual Machine
+  &ensp; "Windows 10 Pro"  installed as main Operating System / as Virtual Machine
   <br>
 </details>
 
