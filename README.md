@@ -8,7 +8,7 @@
 
 ## Activation Steps
 
-
+1] Download 
 
 <br>
 
