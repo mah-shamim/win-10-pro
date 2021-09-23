@@ -7,7 +7,7 @@
 
 <br>
 
-<img src='img/activator.png'>
+<img src='img/activator.png' width='65%'>
 
 <br>
 
