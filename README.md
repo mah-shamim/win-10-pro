@@ -1,10 +1,15 @@
+
+
+                                                     
 # Activate "Windows 10 Professional" for Free 
 
 > To remove this repo please create an issue with valid reason
 
 <br>
 
-<img src='img/win-10-pro.png'>
+<img src='img/activator.png'>
+
+<br>
 
 ## Activation Steps [2]
 
@@ -27,8 +32,8 @@
 <br>
 
 ### Your Windows 10 Professional is activated !!
+<img src='img/win-10-pro.png' height='500' width='400'>
 
-<br>
 <br>
 
 <!-- &nbsp; 1
