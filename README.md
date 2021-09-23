@@ -4,7 +4,7 @@
 
 <br>
 
-
+<img src='img/win-10-pro.png'>
 
 ## Activation Steps [2]
 
@@ -54,10 +54,10 @@
 
 <br>
 
-### Disclaimer
+### :warning: Disclaimer 
 
 - It is *safe* to run script as *administrator*, just verify the sha1sum / md5sum of the `.bat` file downloaded from below :-
-- sha1 : `f0dddb305de0bc5df976cdaa8ec90924ac6135bc`
-- md5 : `9ad4483504c4d6bd421f1aef8605fdbc`
+- sha1 : `2b8fa42441962ae1f58618fee2fec6a90bcee548`
+- md5 : `86d7867ad6fab5e4eb7b73070dae4ffa`
 
 <br>
